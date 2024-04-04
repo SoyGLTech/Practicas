@@ -116,6 +116,7 @@ h3 {
 
 .servicio img {
   float: right;
+  padding: 20px;
 }
 
 .servicio p {
