@@ -115,11 +115,12 @@ h3 {
 }
 
 .servicio img {
-  float: right;
-  padding: 20px;
+float: right;
+padding-top: 20px;
+width: 90px;
 }
 
 .servicio p {
-  font-size: 18px;
+  font-size: 16px;
 }
   
